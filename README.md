@@ -1,2 +1,1 @@
-# My-repo
-it is my portfolio repo welcome
+This is my first repository welcome Mr 
